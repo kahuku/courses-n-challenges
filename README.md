@@ -64,7 +64,7 @@ A reference complication of the online courses and challenges I use to learn and
 | [The Cyber Mentor YT](https://www.youtube.com/c/TheCyberMentor) | | |
 | [BYU Cyberia CTF Trainings](https://github.com/BYU-CTF-group/ctf-training) | | |
 | [Udemy](https://www.udemy.com/) | | |
-| [LinkedIn Learning](https://www.linkedin.com/learning/?u=89682092) | XXXXXXXXXX | |
+| [LinkedIn Learning](https://www.linkedin.com/learning/?u=89682092) | | [Courses of Interest](https://github.com/kahuku/courses-n-challenges/tree/main/linkedin_learning) |
 | [MIT Open Courseware](https://ocw.mit.edu/) | | [YouTube](https://www.youtube.com/c/mitocw)|
 | [Stanford Online](https://online.stanford.edu/) | | [YouTube](https://www.youtube.com/user/stanfordonline)|
 | [Duolingo](https://www.duolingo.com/learn) | | |
