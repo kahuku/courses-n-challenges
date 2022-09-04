@@ -82,3 +82,4 @@ A reference complication of the online courses and challenges I use to learn and
 | [Open Source Society University Computer Science](https://github.com/ossu/computer-science) | | |
 | [Open Source Society University Data Science](https://github.com/ossu/data-science) | | |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | | |
+| [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | | |
