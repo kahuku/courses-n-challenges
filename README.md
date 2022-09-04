@@ -3,47 +3,47 @@ A reference complication of the online courses and challenges I use to learn and
 
 | Site | Description | Notes |
 | :--- | :---------- | :---- |
-| [Practice Python](https://www.practicepython.org/) | | |
+| [Practice Python](https://www.practicepython.org/) | Full of challenges to learn Python for all skill levels | [Solutions](https://github.com/kahuku/practicepython.org_solutions) |
 | [HackerRank](https://www.hackerrank.com/) | | |
 | [Exercism](https://exercism.org/) | | |
 | [Codewars](https://www.codewars.com/) | | |
 | [Leetcode](https://leetcode.com/) | | |
 | [Python Challenge](http://www.pythonchallenge.com/) | | |
 | [CodeChef](https://www.codechef.com/) | | |
-| [Codeforces](https://codeforces.com/) | | |
-| [Kattis](https://open.kattis.com/) | | |
+| [Codeforces](https://codeforces.com/) | | [Solutions](https://github.com/kahuku/competitive_programming/tree/main/codeforces) |
+| [Kattis](https://open.kattis.com/) | | [Solutions](https://github.com/kahuku/competitive_programming/tree/main/kattis)|
 | [Grind 75](https://www.techinterviewhandbook.org/grind75?hours=8) | | |
 | [CodeCombat](https://codecombat.com/) | | |
 | [CheckiO](https://checkio.org/) | | |
 | [USACO](https://usaco.guide/) | | |
 | [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) | | |
-| [MIT Missing Semester](https://missing.csail.mit.edu/) | | |
+| [MIT Missing Semester](https://missing.csail.mit.edu/) | Stuff MIT thinks you should know before your intro CS class | |
 | [Learn Code by Gaming YT](https://www.youtube.com/channel/UCD8vb6Bi7_K_78nItq5YITA) | | |
-| [Coding Interview University](https://github.com/jwasham/coding-interview-university) | | |
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university) | Github repo with tons of interview prep | |
 | [Educative](https://www.educative.io/) | | |
 | [Frontend Masters](https://frontendmasters.com/) | | |
 | [datacamp](https://www.datacamp.com/) | | |
 | [One Month](https://onemonth.com/) | | |
 | [Covalence](https://covalence.io/) | | |
 | [Interview Cake](https://www.interviewcake.com/) | | |
-| [Go Rails](https://gorails.com/) | | |
+| [Go Rails](https://gorails.com/) | Ruby on Rails course | |
 | [Thinkful](https://www.thinkful.com/) | | |
 | [Symfony Casts](https://symfonycasts.com/) | | |
-| [Interneting is Hard](https://www.internetingishard.com/) | | |
+| [Interneting is Hard](https://www.internetingishard.com/) | Intro web development course | |
 | [Super Data Science](https://www.superdatascience.com/home) | | |
 | [Free Code Camp](https://www.freecodecamp.org/) | | |
-| [Harvard CS 50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) | | |
-| [Developer Roadmap (Language Specific)](https://roadmap.sh/) | | |
-| [Developer Roadmap (General)](https://github.com/kamranahmedse/developer-roadmap) | | |
-| [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) | | |
-| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | | |
+| [Harvard CS 50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) | Harvard's free, open-source introductory CS class | |
+| [Developer Roadmap (Language Specific)](https://roadmap.sh/) | Roadmap to become a developer in a specific language | |
+| [Developer Roadmap (General)](https://github.com/kamranahmedse/developer-roadmap) | Language-agnostic roadmap to becoming a developer | |
+| [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) | Github repo with info every programmer should know| |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | List of free programming books | |
 | [GeeksForGeeks Interview Prep](https://practice.geeksforgeeks.org/courses/complete-interview-preparation?utm_source=GfG&utm_medium=Home&utm_campaign=CIP_Submenu) | | |
 | [ProjectLearn](https://projectlearn.io/) | | |
 | [Codecademy](https://www.codecademy.com/) | | |
 | [Karan's Project Ideas](https://github.com/karan/Projects) | | |
-| [Blind](https://www.teamblind.com/) | | |
+| [Blind](https://www.teamblind.com/) | Good for referrals and comp discussion | |
 | [Cracking the Coding Interview Book](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) | | |
-| [Glassdoor](https://www.glassdoor.com/index.htm) | | |
+| [Glassdoor](https://www.glassdoor.com/index.htm) | Good for salary and interview process insights | |
 | [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | | |
 | [System Design Interview YT](https://www.youtube.com/c/SystemDesignInterview) | | |
 | [Abdul Bari YT](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) | | |
@@ -60,25 +60,25 @@ A reference complication of the online courses and challenges I use to learn and
 | [Hack the Box](https://www.hackthebox.com/) | | |
 | [Hack This Site](https://www.hackthissite.org/) | | |
 | [TryHackMe](https://tryhackme.com/) | | |
-| [Offensive Interview Prep](https://github.com/WebBreacher/offensiveinterview) | | |
+| [Offensive Interview Prep](https://github.com/WebBreacher/offensiveinterview) | Resources to prepare you for a red team interview | |
 | [The Cyber Mentor YT](https://www.youtube.com/c/TheCyberMentor) | | |
 | [BYU Cyberia CTF Trainings](https://github.com/BYU-CTF-group/ctf-training) | | |
 | [Udemy](https://www.udemy.com/) | | |
 | [LinkedIn Learning](https://www.linkedin.com/learning/?u=89682092) | | [Courses of Interest](https://github.com/kahuku/courses-n-challenges/tree/main/linkedin_learning) |
-| [MIT Open Courseware](https://ocw.mit.edu/) | | [YouTube](https://www.youtube.com/c/mitocw)|
-| [Stanford Online](https://online.stanford.edu/) | | [YouTube](https://www.youtube.com/user/stanfordonline)|
-| [Duolingo](https://www.duolingo.com/learn) | | |
+| [MIT Open Courseware](https://ocw.mit.edu/) | Free online courses from MIT | [YouTube](https://www.youtube.com/c/mitocw)|
+| [Stanford Online](https://online.stanford.edu/) | Free online courses from Stanford | [YouTube](https://www.youtube.com/user/stanfordonline)|
+| [Duolingo](https://www.duolingo.com/learn) | Learn a new language | [Be my friend and motivate me!](https://www.duolingo.com/profile/wilsonator02), [Referral link](https://invite.duolingo.com/BDHTZTB5CWWKSS2M3UJRNX4V3I) |
 | [Academic Earth](https://academicearth.org/online-college-courses/) | | |
 | [Alison](https://alison.com/courses) | | |
-| [BYU Personal Finance](https://personalfinance.byu.edu/) | | |
+| [BYU Personal Finance](https://personalfinance.byu.edu/) | Awesome course on personal finance from Brigham Young University's Marriott School of Business| |
 | [edX](https://www.edx.org/) | | |
 | [Coursera](https://www.coursera.org/?ranMID=40328&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-4b43b5qZrfcwab151jUU2g&siteID=TnL5HPStwNw-4b43b5qZrfcwab151jUU2g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=TnL5HPStwNw) | | |
 | [Open Courseware Catalog](https://www.cccoer.org/using-oer/find-oer/open-courseware/) | | |
 | [Open Education Database](https://oedb.org/open/) | | |
-| [Khan Acadmey](https://www.khanacademy.org/profile/me/courses?learn=1) | | |
+| [Khan Academy](https://www.khanacademy.org/profile/me/courses?learn=1) | | |
 | [Stats in Sports](https://github.com/zbinney/Stats_in_Sports_2021) | | |
-| []() | | |
-| []() | | |
-| []() | | |
-| []() | | |
-| []() | | |
+| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) | | |
+| [Awesome Repos](https://github.com/pawelborkar/awesome-repos) | | |
+| [Open Source Society University Computer Science](https://github.com/ossu/computer-science) | | |
+| [Open Source Society University Data Science](https://github.com/ossu/data-science) | | |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | | |
