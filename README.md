@@ -83,3 +83,14 @@ A reference complication of the online courses and challenges I use to learn and
 | [Open Source Society University Data Science](https://github.com/ossu/data-science) | | |
 | [App Ideas](https://github.com/florinpop17/app-ideas) | | |
 | [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | | |
+| [CTFTime](https://ctftime.org/) | | |
+| [Red Tiget Over the Wire](http://redtiger.labs.overthewire.org/) | | |
+| [Cyber Talents](https://cybertalents.com/challenges/) | | |
+| [Pico CTF](https://play.picoctf.org/practice/challenge/68?category=2&page=1) | | |
+| [r/Cybersecurity Training Index](https://www.reddit.com/r/cybersecurity/wiki/training/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) | | |
+| [Simply Cyber](https://www.simplycyber.io/free-cyber-resources) | | |
+| [Exam Compass Sec+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) | | |
+| [Passmeall Sec+ Practice Test](https://passemall.com/free-comptia-security-practice-test) | | |
+| [CompTIA Sec+ Practice Tests](https://www.comptia.org/training/resources/practice-tests) | | |
+| [Test Guide Sec+ Practice Tests](https://www.test-guide.com/free-comptia-security-plus-practice-tests.html) | | |
+| [Practice Quiz Sec+ Practice Questions](https://practicequiz.com/comptia-security+-exam-prep) | | |
