@@ -95,3 +95,4 @@ A reference complication of the online courses and challenges I use to learn and
 | [Test Guide Sec+ Practice Tests](https://www.test-guide.com/free-comptia-security-plus-practice-tests.html) | | |
 | [Practice Quiz Sec+ Practice Questions](https://practicequiz.com/comptia-security+-exam-prep) | | |
 | [Antisyphon](https://www.antisyphontraining.com/) | | |
+| [TheCleverProgrammer Python Projects with Source Code](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/) | | |
