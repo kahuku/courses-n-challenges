@@ -97,3 +97,4 @@ A reference complication of the online courses and challenges I use to learn and
 | [Antisyphon](https://www.antisyphontraining.com/) | | |
 | [TheCleverProgrammer Python Projects with Source Code](https://thecleverprogrammer.com/2021/01/14/python-projects-with-source-code/) | | |
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x/) | | |
+| [Malware Unicorn](https://malwareunicorn.org/#/) | | |
